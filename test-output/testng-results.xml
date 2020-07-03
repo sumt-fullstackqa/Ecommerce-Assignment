@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-03T12:09:08Z" name="Suite" finished-at="2020-07-03T12:09:59Z" duration-ms="51152">
+    <groups>
+    </groups>
+    <test started-at="2020-07-03T12:09:08Z" name="validating order confirmed" finished-at="2020-07-03T12:09:59Z" duration-ms="51152">
+      <class name="EcommerceAssignment.EcommerceAssignment.ProductOrderTest">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:EcommerceAssignment.EcommerceAssignment.ProductOrderTest@2ca923bb]" started-at="2020-07-03T17:39:08Z" name="initializeDriver" finished-at="2020-07-03T17:39:12Z" duration-ms="4777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="basepagenavigation()[pri:1, instance:EcommerceAssignment.EcommerceAssignment.ProductOrderTest@2ca923bb]" started-at="2020-07-03T17:39:12Z" name="basepagenavigation" finished-at="2020-07-03T17:39:25Z" duration-ms="12298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basepagenavigation -->
+        <test-method signature="logintest()[pri:2, instance:EcommerceAssignment.EcommerceAssignment.ProductOrderTest@2ca923bb]" started-at="2020-07-03T17:39:25Z" name="logintest" finished-at="2020-07-03T17:39:29Z" duration-ms="4165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method signature="tshirtsubmenuclickTest()[pri:3, instance:EcommerceAssignment.EcommerceAssignment.ProductOrderTest@2ca923bb]" started-at="2020-07-03T17:39:29Z" name="tshirtsubmenuclickTest" finished-at="2020-07-03T17:39:32Z" duration-ms="3205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tshirtsubmenuclickTest -->
+        <test-method signature="addDesiredItems()[pri:4, instance:EcommerceAssignment.EcommerceAssignment.ProductOrderTest@2ca923bb]" started-at="2020-07-03T17:39:32Z" name="addDesiredItems" finished-at="2020-07-03T17:39:36Z" duration-ms="3959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDesiredItems -->
+        <test-method signature="orderproduct()[pri:5, instance:EcommerceAssignment.EcommerceAssignment.ProductOrderTest@2ca923bb]" started-at="2020-07-03T17:39:36Z" name="orderproduct" finished-at="2020-07-03T17:39:59Z" duration-ms="22655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderproduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:EcommerceAssignment.EcommerceAssignment.ProductOrderTest@2ca923bb]" started-at="2020-07-03T17:39:59Z" name="teardown" finished-at="2020-07-03T17:39:59Z" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- EcommerceAssignment.EcommerceAssignment.ProductOrderTest -->
+    </test> <!-- validating order confirmed -->
+  </suite> <!-- Suite -->
+</testng-results>
